@@ -4,7 +4,7 @@
   "description": "This repository contains unit tests for a JavaScript app, demonstrating the use of the AAA (Arrange, Act, Assert) pattern. It aims to showcase the importance of testing code for ensuring its reliability and functionality.",
   "main": "string-test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
