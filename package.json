@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This repository contains unit tests for a JavaScript app, demonstrating the use of the AAA (Arrange, Act, Assert) pattern. It aims to showcase the importance of testing code for ensuring its reliability and functionality.",
+  "main": "string-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jicamargo/testing-practice.git"
+  },
+  "author": "Jorge Camargo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jicamargo/testing-practice/issues"
+  },
+  "homepage": "https://github.com/jicamargo/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
